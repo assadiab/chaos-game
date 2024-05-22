@@ -61,7 +61,7 @@ chaos_game.py  clustering.py  genomes  genomic_sign.py
 ```
 Afin de vérifier le contenu du repertoire `genomes`, utilisez la commande suivante (`./` signifie que vous etes dans le répertoire actuel):
 ```bash
-$ ls /genomes 
+$ ls ./genomes 
 BA000017.gbk  EU810403.gbk  MN781974.gbk   NC_001224.1.gbk  NC_004353.gbk
 CR380953.gbk  KY751400.gbk  NC_001133.gbk  NC_001806.gbk    NC_004812.gbk
 ```
